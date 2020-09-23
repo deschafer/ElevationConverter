@@ -17,4 +17,4 @@
   * Elevation is as described above, meters from sealevel.
 * The name of the file is the inputname + "Formatted".
 * It saves the new .csv file in the programs working directory.
- ## Release is up to date.
+ ### Release is up to date.
